@@ -1,2 +1,2 @@
-# wpschoolpress
+# school content management
 
